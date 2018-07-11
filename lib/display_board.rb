@@ -4,4 +4,6 @@ def display_board
   board2 = ["-----------"]
 end  
 
-display_board
+puts display_board
+puts display_board
+puts display_board
